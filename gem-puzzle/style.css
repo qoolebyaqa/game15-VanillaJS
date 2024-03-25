@@ -17,7 +17,8 @@ body {
 .__divGameCell {
   width: 24%;
   height: 65px;
-  background-color: rgb(202, 201, 201);
+  background: linear-gradient(21deg, #dd03e4, #5611ec);
+  border-radius: 25px;
   text-align: center;
   border: 2px solid black;
   font-size: 32px;
